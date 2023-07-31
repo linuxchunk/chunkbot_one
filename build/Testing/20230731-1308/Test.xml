@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20230731-1308-Experimental"
+	Name="ROG"
+	Generator="ctest-3.22.1"
+	CompilerName="/usr/bin/c++"
+	CompilerVersion="11.4.0"
+	OSName="Linux"
+	Hostname="ROG"
+	OSRelease="5.19.0-46-generic"
+	OSVersion="#47~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Wed Jun 21 15:35:31 UTC 2"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="23"
+	ModelID="96"
+	ProcessorCacheSize="512"
+	NumberOfLogicalCPU="16"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="23437"
+	TotalPhysicalMemory="23442"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="1902.44"
+	>
+	<Testing>
+		<StartDateTime>Jul 31 18:40 IST</StartDateTime>
+		<StartTestTime>1690809001</StartTestTime>
+		<TestList/>
+		<EndDateTime>Jul 31 18:40 IST</EndDateTime>
+		<EndTestTime>1690809001</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
